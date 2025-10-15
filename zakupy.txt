@@ -1,2 +1,3 @@
 zakupyt - C1
 zmiana - C2
+następna linia zakupów
